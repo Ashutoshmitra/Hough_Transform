@@ -1,5 +1,5 @@
 # Hough_Transform
-- Project for Satellite Image Processing(SIP) by Ashutosh Mitra(203310012)
+- Project for Satellite Image Processing(SIP) by Ashutosh Mitra(203310012) and Laylo Kamoliddinovna Zaridinova(203311003)
 
 - Our problem statement : Implement Hough transform for line detection using both equations for line
                             y=mx+c, 
